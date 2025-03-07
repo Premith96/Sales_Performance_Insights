@@ -1,9 +1,12 @@
 # Sales_and_Customer_Analysis_Project
 
 📅 **Analysis Period:** 2020 – 2023
-📂 **Data Sources:** [Dataset]
 
-##Project Background & Objective
+📂 **Data Sources:** [Dataset](https://github.com/Premith96/Sales_and_Customer_Insights_Project/tree/main/Dataset)
+
+🛠️ **Tools and Technology:** Microsoft Excel and Tableau
+
+## **Project Background & Objective:**
 
 Effective sales analysis is critical for understanding business performance, optimizing product strategies, and enhancing customer engagement. This project focuses on leveraging Tableau Dashboards to provide insights into year-over-year sales trends, profit performance, and customer behavior.
 
