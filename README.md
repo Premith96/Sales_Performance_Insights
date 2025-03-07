@@ -1,4 +1,4 @@
-# Sales_and_Customer_Analysis_Project
+# Sales_Performance_Insights_Project
 
 ## **Project Overview**
 This project aims to analyze sales and customer performance for a retail business using interactive dashboards. The Sales Dashboard provides insights into sales trends, profitability, and product performance, while the Customer Dashboard focuses on customer behavior, order patterns, and top customers. The analysis covers data from multiple years, with interactive filters for year, product categories, and location, enabling users to explore trends dynamically and optimize business strategies.
@@ -11,23 +11,41 @@ This project aims to analyze sales and customer performance for a retail busines
 
 ## **Project Requirements**  
 
-#### **Sales Dashboard:**
+### **Sales Dashboard:**
 📌 **Purpose:** Analyze year-over-year sales performance and trends.  
 - **KPI Overview:** Total sales, profits, and quantity for current & previous year.  
 - **Sales Trends:** Monthly data visualization with highest & lowest sales highlights.  
 - **Product Comparison:** Sales & profit comparison by subcategory.  
 - **Weekly Trends:** Weekly sales & profit with average values and performance highlights.  
 
-#### **Customer Dashboard:**  
+### **Customer Dashboard:**  
 📌 **Purpose:** Understand customer trends, behaviors, and engagement.  
 - **KPI Overview:** Total customers, sales per customer, and orders for both years.  
 - **Customer Trends:** Monthly customer data with high/low sales insights.  
 - **Customer Distribution:** Group customers based on order frequency.  
 - **Top 10 Customers:** Ranking by profit with orders, sales, and last order date.  
 
-#### **Design & Interactivity:**  
+### **Design & Interactivity:**  
 - 📊 **Historical Data Selection:** View past data for any year.  
 - 🔄 **Smooth Navigation:** Seamless switching between dashboards.  
 - 🎛 **Interactive Charts:** Click-to-filter for better insights.  
 - 🔍 **Advanced Filters:** Sort data by product category, subcategory, region, state, and city.  
+
+## **Dataset Description**
+
+### **Customers Dataset:**
+- Contains information on customers, including customer ID and customer name.  
+- Helps in analyzing customer behavior and segmentation.
+
+### **Location Dataset:**
+- Includes details about geographical locations such as region, state, and city.  
+- Useful for analyzing sales and customer distribution by location.
+
+### **Orders Dataset:**
+- Stores sales transaction data, including order ID, order date, customer ID, product details, sales, profit, and quantity.  
+- Provides insights into sales trends, order frequency, and profitability.
+
+### **Products Dataset:**
+- Contains product-related details, including product ID, category, sub-category, and product name.  
+- Helps in analyzing product performance across different categories.
 
