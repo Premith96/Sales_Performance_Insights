@@ -27,4 +27,3 @@ This analysis provides a comprehensive overview of the company’s sales trends,
 
 In 2023, Week 48 had the highest weekly sales ($36K), while Week 21 saw the lowest ($4.36K). Copiers and Accessories emerged as the most profitable subcategories, whereas Tables remained a loss-making category across all years. Regionally, Chairs and Phones dominated most markets, except in the Western region, where Copiers and Binders were the top-selling subcategories.
 
-These insights highlight opportunities to optimize inventory management, maximize profitability, and enhance customer engagement strategies.
