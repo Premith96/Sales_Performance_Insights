@@ -1,4 +1,4 @@
-# Sales_Performance_Insights_Project
+# Sales_Performance_Insights
 
 ## **Project Overview**
 This project uses interactive dashboards to analyze sales trends, profitability, customer behavior, and order patterns, helping optimize business strategies.
