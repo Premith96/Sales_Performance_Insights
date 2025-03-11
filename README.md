@@ -1,7 +1,7 @@
 # Sales_Performance_Insights_Project
 
 ## **Project Overview**
-This project aims to analyze sales and customer performance for a retail business using interactive dashboards. The Sales Dashboard provides insights into sales trends, profitability, and product performance, while the Customer Dashboard focuses on customer behavior, order patterns, and top customers. The analysis covers data from multiple years, with interactive filters for year, product categories, and location, enabling users to explore trends dynamically and optimize business strategies.
+This project uses interactive dashboards to analyze sales trends, profitability, customer behavior, and order patterns, helping optimize business strategies.
 
 📅 **Analysis Period:** 2020 – 2023
 
